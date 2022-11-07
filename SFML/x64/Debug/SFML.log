@@ -1,0 +1,7 @@
+﻿  GSNext.cpp
+C:\Users\MSI GF\source\repos\SFML\SFML\Source\GameStateManager\GSNext.cpp(64,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  SFML.vcxproj -> C:\Users\MSI GF\source\repos\SFML\x64\Debug\SFML.exe
